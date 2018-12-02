@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+
+    <string name="settings_order_by_popular">popular</string>
+    <string name="settings_order_by_popular_label">Popular</string>
+    <string name="settings_order_by_popular_value" translatable="false">popular</string>
+
+    <string name="settings_order_by_topRated_label">Top rated</string>
+    <string name="settings_order_by_topRated_value" translatable="false">top_rated</string>
+
+    <string name="settings_order_by">Order By</string>
+    <string name="settings_default_order_by" translatable="false">@string/settings_order_by_popular</string>
+
+
+</resources>

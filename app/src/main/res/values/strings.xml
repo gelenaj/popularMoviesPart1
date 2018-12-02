@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="no_data">No data</string>
+    <string name="mark_as_favorite">Mark as Favorite</string>
+    <string name="poster_image">Poster image</string>
+    <string name="settings">settings</string>
+    <string name="out_of_10">/10</string>
+    <string name="no_internet">No internet connection</string>
+</resources>
